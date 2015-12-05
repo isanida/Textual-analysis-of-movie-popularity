@@ -1,0 +1,382 @@
+>>> runfile('/Users/macbookair/Dropbox/Mystuff/nlpmio/LDApythonpackage/LDAwithgenre.py', wdir=r'/Users/macbookair/Dropbox/Mystuff/nlpmio/LDApythonpackage')
+type(X): <class 'scipy.sparse.csc.csc_matrix'>
+shape: (243, 29865)
+
+type(vocab): <type 'list'>
+len(vocab): 29865
+
+29865
+type(titles): <type 'list'>
+len(titles): 243
+
+INFO:lda:n_documents: 243
+INFO:lda:vocab_size: 29865
+INFO:lda:n_words: 1113386
+INFO:lda:n_topics: 20
+INFO:lda:n_iter: 1000
+INFO:lda:<0> log likelihood: -11195086, per-word: -10.0550
+INFO:lda:<10> log likelihood: -9583874, per-word: -8.6079
+INFO:lda:<20> log likelihood: -8900949, per-word: -7.9945
+INFO:lda:<30> log likelihood: -8510200, per-word: -7.6435
+INFO:lda:<40> log likelihood: -8279336, per-word: -7.4362
+INFO:lda:<50> log likelihood: -8165763, per-word: -7.3342
+INFO:lda:<60> log likelihood: -8106873, per-word: -7.2813
+INFO:lda:<70> log likelihood: -8074628, per-word: -7.2523
+INFO:lda:<80> log likelihood: -8054758, per-word: -7.2345
+INFO:lda:<90> log likelihood: -8037295, per-word: -7.2188
+INFO:lda:<100> log likelihood: -8025828, per-word: -7.2085
+INFO:lda:<110> log likelihood: -8016046, per-word: -7.1997
+INFO:lda:<120> log likelihood: -8007916, per-word: -7.1924
+INFO:lda:<130> log likelihood: -8001356, per-word: -7.1865
+INFO:lda:<140> log likelihood: -7998169, per-word: -7.1836
+INFO:lda:<150> log likelihood: -7991537, per-word: -7.1777
+INFO:lda:<160> log likelihood: -7985867, per-word: -7.1726
+INFO:lda:<170> log likelihood: -7986532, per-word: -7.1732
+INFO:lda:<180> log likelihood: -7982712, per-word: -7.1698
+INFO:lda:<190> log likelihood: -7978584, per-word: -7.1661
+INFO:lda:<200> log likelihood: -7974221, per-word: -7.1621
+INFO:lda:<210> log likelihood: -7970898, per-word: -7.1592
+INFO:lda:<220> log likelihood: -7970352, per-word: -7.1587
+INFO:lda:<230> log likelihood: -7967727, per-word: -7.1563
+INFO:lda:<240> log likelihood: -7962800, per-word: -7.1519
+INFO:lda:<250> log likelihood: -7962855, per-word: -7.1519
+INFO:lda:<260> log likelihood: -7965163, per-word: -7.1540
+INFO:lda:<270> log likelihood: -7964273, per-word: -7.1532
+INFO:lda:<280> log likelihood: -7962987, per-word: -7.1520
+INFO:lda:<290> log likelihood: -7963702, per-word: -7.1527
+INFO:lda:<300> log likelihood: -7961176, per-word: -7.1504
+INFO:lda:<310> log likelihood: -7958787, per-word: -7.1483
+INFO:lda:<320> log likelihood: -7959978, per-word: -7.1493
+INFO:lda:<330> log likelihood: -7955640, per-word: -7.1454
+INFO:lda:<340> log likelihood: -7955991, per-word: -7.1458
+INFO:lda:<350> log likelihood: -7955507, per-word: -7.1453
+INFO:lda:<360> log likelihood: -7952428, per-word: -7.1426
+INFO:lda:<370> log likelihood: -7953422, per-word: -7.1435
+INFO:lda:<380> log likelihood: -7951894, per-word: -7.1421
+INFO:lda:<390> log likelihood: -7949472, per-word: -7.1399
+INFO:lda:<400> log likelihood: -7949036, per-word: -7.1395
+INFO:lda:<410> log likelihood: -7948628, per-word: -7.1391
+INFO:lda:<420> log likelihood: -7946774, per-word: -7.1375
+INFO:lda:<430> log likelihood: -7943272, per-word: -7.1343
+INFO:lda:<440> log likelihood: -7943017, per-word: -7.1341
+INFO:lda:<450> log likelihood: -7943843, per-word: -7.1349
+INFO:lda:<460> log likelihood: -7945188, per-word: -7.1361
+INFO:lda:<470> log likelihood: -7943590, per-word: -7.1346
+INFO:lda:<480> log likelihood: -7948614, per-word: -7.1391
+INFO:lda:<490> log likelihood: -7940232, per-word: -7.1316
+INFO:lda:<500> log likelihood: -7941054, per-word: -7.1323
+INFO:lda:<510> log likelihood: -7938102, per-word: -7.1297
+INFO:lda:<520> log likelihood: -7938695, per-word: -7.1302
+INFO:lda:<530> log likelihood: -7939743, per-word: -7.1312
+INFO:lda:<540> log likelihood: -7937858, per-word: -7.1295
+INFO:lda:<550> log likelihood: -7939195, per-word: -7.1307
+INFO:lda:<560> log likelihood: -7935872, per-word: -7.1277
+INFO:lda:<570> log likelihood: -7938738, per-word: -7.1303
+INFO:lda:<580> log likelihood: -7934470, per-word: -7.1264
+INFO:lda:<590> log likelihood: -7933316, per-word: -7.1254
+INFO:lda:<600> log likelihood: -7936861, per-word: -7.1286
+INFO:lda:<610> log likelihood: -7936743, per-word: -7.1285
+INFO:lda:<620> log likelihood: -7934540, per-word: -7.1265
+INFO:lda:<630> log likelihood: -7932124, per-word: -7.1243
+INFO:lda:<640> log likelihood: -7932224, per-word: -7.1244
+INFO:lda:<650> log likelihood: -7929578, per-word: -7.1220
+INFO:lda:<660> log likelihood: -7934994, per-word: -7.1269
+INFO:lda:<670> log likelihood: -7930800, per-word: -7.1231
+INFO:lda:<680> log likelihood: -7931799, per-word: -7.1240
+INFO:lda:<690> log likelihood: -7929212, per-word: -7.1217
+INFO:lda:<700> log likelihood: -7933040, per-word: -7.1251
+INFO:lda:<710> log likelihood: -7930953, per-word: -7.1233
+INFO:lda:<720> log likelihood: -7931461, per-word: -7.1237
+INFO:lda:<730> log likelihood: -7931283, per-word: -7.1236
+INFO:lda:<740> log likelihood: -7928482, per-word: -7.1211
+INFO:lda:<750> log likelihood: -7927367, per-word: -7.1201
+INFO:lda:<760> log likelihood: -7929412, per-word: -7.1219
+INFO:lda:<770> log likelihood: -7928320, per-word: -7.1209
+INFO:lda:<780> log likelihood: -7926087, per-word: -7.1189
+INFO:lda:<790> log likelihood: -7932153, per-word: -7.1244
+INFO:lda:<800> log likelihood: -7930639, per-word: -7.1230
+INFO:lda:<810> log likelihood: -7933495, per-word: -7.1256
+INFO:lda:<820> log likelihood: -7928825, per-word: -7.1214
+INFO:lda:<830> log likelihood: -7930461, per-word: -7.1228
+INFO:lda:<840> log likelihood: -7927586, per-word: -7.1202
+INFO:lda:<850> log likelihood: -7931105, per-word: -7.1234
+INFO:lda:<860> log likelihood: -7928002, per-word: -7.1206
+INFO:lda:<870> log likelihood: -7927942, per-word: -7.1206
+INFO:lda:<880> log likelihood: -7923507, per-word: -7.1166
+INFO:lda:<890> log likelihood: -7927458, per-word: -7.1201
+INFO:lda:<900> log likelihood: -7925287, per-word: -7.1182
+INFO:lda:<910> log likelihood: -7922870, per-word: -7.1160
+INFO:lda:<920> log likelihood: -7923015, per-word: -7.1161
+INFO:lda:<930> log likelihood: -7923908, per-word: -7.1169
+INFO:lda:<940> log likelihood: -7924193, per-word: -7.1172
+INFO:lda:<950> log likelihood: -7922114, per-word: -7.1153
+INFO:lda:<960> log likelihood: -7921618, per-word: -7.1149
+INFO:lda:<970> log likelihood: -7921882, per-word: -7.1151
+INFO:lda:<980> log likelihood: -7923487, per-word: -7.1166
+INFO:lda:<990> log likelihood: -7923159, per-word: -7.1163
+INFO:lda:<1000> log likelihood: -7924156, per-word: -7.1172
+Topic 0: odeon swept languages honeybear favors tricksters tar escorts nudge
+Topic 1: misanthropes amusements sporadic nudge traffic miscarriage pubs 19th participating
+Topic 2: eighty bread thug steel barney antlers chestnut secrecy glenda
+Topic 3: failure misses nostalgic chicago godefroid childbirth struggles christ blowjobs
+Topic 4: edematous brian lassoed carter misanthropes laude boomer swirling fences
+Topic 5: 22nd eighty howzitgoin ability faintest someday demonic surprised marko
+Topic 6: blackest eighty traitors filth survivor truths carter cabled extracts
+Topic 7: accomplishment slacks igorot cried famously coffins gadgets failure breeds
+Topic 8: intestate cabin suavest odeon obeying admired shoulda beef senselessly
+Topic 9: odeon languages tricksters favors tar marlon escorts nesting amusements
+Topic 10: swept honeybear dock wished humiliated chewed roy earl theatres
+Topic 11: rushed traffic rollin buncha forum fog reprisal highcliffe containing
+Topic 12: braver barboni reprisal someday failure township gasses screamer whopping
+Topic 13: gadgets zigging vantages numbskulls disappointments becky ext clapped eighties
+Topic 14: pubs audacity famously interviewing alibis handful bespeak mcwhirter richwhiteman
+Topic 15: excitin concentrations miscarriage 80 failure armor hermit 1012 changes
+Topic 16: wished annoying christ toluca trusting budge tossin reese desmond
+Topic 17: wished amusements excitin chanel miscarriage cabin encore prophet rada
+Topic 18: failure gringos ext traitors becky gall misanthropes famously tottenham
+Topic 19: odeon swept honeybear languages schooled yayo tricksters favors dock
+
+
+wild things (top topic: 9)
+hider in the house (top topic: 9)
+the haunting (top topic: 9)
+unbreakable (top topic: 9)
+klute (top topic: 9)
+from dusk till dawn (top topic: 9)
+jason goes to hell: the final friday (top topic: 9)
+barton fink (top topic: 9)
+kafka (top topic: 10)
+alien (top topic: 9)
+star trek: first contact (top topic: 17)
+signs (top topic: 9)
+basic instinct (top topic: 9)
+an american werewolf in paris (top topic: 9)
+psycho (top topic: 9)
+asylum (top topic: 9)
+nurse betty (top topic: 9)
+the leopard man (top topic: 9)
+the x files (top topic: 10)
+midnight express (top topic: 9)
+pitch black (top topic: 9)
+tremors (top topic: 9)
+jackie brown (top topic: 9)
+get shorty (top topic: 9)
+the fifth element (top topic: 9)
+a nightmare on elm street 4: the dream master (top topic: 9)
+48 hrs. (top topic: 9)
+reindeer games (top topic: 9)
+the atomic submarine (top topic: 10)
+get carter (top topic: 9)
+godzilla (top topic: 9)
+hostage (top topic: 9)
+the bourne identity (top topic: 9)
+insomnia (top topic: 9)
+predator (top topic: 9)
+point break (top topic: 9)
+the third man (top topic: 9)
+traffic (top topic: 9)
+cellular (top topic: 9)
+agnes of god (top topic: 9)
+ticker (top topic: 9)
+the grifters (top topic: 9)
+the thing (top topic: 9)
+bringing out the dead (top topic: 9)
+lost highway (top topic: 9)
+the insider (top topic: 9)
+copycat (top topic: 9)
+freddy vs. jason (top topic: 9)
+feast (top topic: 9)
+no country for old men (top topic: 9)
+batman returns (top topic: 9)
+leviathan (top topic: 9)
+deep rising (top topic: 9)
+star trek iii: the search for spock (top topic: 17)
+starship troopers (top topic: 9)
+star trek vi: the undiscovered country (top topic: 17)
+jaws (top topic: 9)
+terminator 2: judgment day (top topic: 9)
+the birds (top topic: 9)
+someone to watch over me (top topic: 9)
+frequency (top topic: 9)
+the getaway (top topic: 9)
+mission: impossible ii (top topic: 9)
+grosse pointe blank (top topic: 9)
+batman forever (top topic: 9)
+ronin (top topic: 9)
+the jacket (top topic: 9)
+dark star (top topic: 17)
+witness (top topic: 9)
+the beach (top topic: 9)
+vertigo (top topic: 9)
+blade ii (top topic: 9)
+the lost boys (top topic: 9)
+twin peaks: fire walk with me (top topic: 9)
+die hard (top topic: 9)
+silver bullet (top topic: 9)
+shallow grave (top topic: 9)
+independence day (top topic: 9)
+scream 3 (top topic: 9)
+suspect zero (top topic: 9)
+scream 2 (top topic: 9)
+fargo (top topic: 9)
+final destination (top topic: 9)
+charade (top topic: 9)
+collateral (top topic: 9)
+reservoir dogs (top topic: 9)
+rush hour (top topic: 9)
+minority report (top topic: 9)
+hellraiser: hellseeker (top topic: 9)
+spider-man (top topic: 9)
+star trek: generations (top topic: 10)
+the exorcist (top topic: 9)
+the butterfly effect (top topic: 9)
+the world is not enough (top topic: 9)
+virtuosity (top topic: 9)
+indiana jones and the last crusade (top topic: 9)
+manhunter (top topic: 9)
+body of evidence (top topic: 9)
+jfk (top topic: 9)
+thirteen days (top topic: 10)
+isle of the dead (top topic: 9)
+metro (top topic: 9)
+maniac (top topic: 9)
+star trek: insurrection (top topic: 17)
+jaws: the revenge (top topic: 9)
+jaws 2 (top topic: 9)
+star trek v: the final frontier (top topic: 9)
+the shining (top topic: 9)
+serial mom (top topic: 9)
+true lies (top topic: 9)
+rush hour 2 (top topic: 9)
+misery (top topic: 9)
+american psycho (top topic: 9)
+pet sematary ii (top topic: 9)
+very bad things (top topic: 9)
+book of shadows: blair witch 2 (top topic: 9)
+black rain (top topic: 9)
+jennifer eight (top topic: 9)
+l.a. confidential (top topic: 9)
+the boondock saints (top topic: 9)
+hackers (top topic: 9)
+ghost ship (top topic: 9)
+aliens (top topic: 9)
+bound (top topic: 9)
+the salton sea (top topic: 9)
+affliction (top topic: 9)
+halloween 4: the return of michael myers (top topic: 9)
+twelve monkeys (top topic: 9)
+the seventh victim (top topic: 9)
+lock, stock and two smoking barrels (top topic: 9)
+the black dahlia (top topic: 9)
+confidence (top topic: 9)
+chill factor (top topic: 9)
+the crow (top topic: 9)
+jaws 3-d (top topic: 9)
+the lost world: jurassic park (top topic: 9)
+escape from the planet of the apes (top topic: 9)
+halloween h20: 20 years later (top topic: 9)
+nick of time (top topic: 9)
+the rock (top topic: 9)
+the game (top topic: 9)
+bloodmoon (top topic: 9)
+watchmen (top topic: 9)
+memento (top topic: 9)
+basic (top topic: 9)
+the night of the hunter (top topic: 9)
+cliffhanger (top topic: 9)
+taxi driver (top topic: 9)
+backdraft (top topic: 9)
+thelma & louise (top topic: 9)
+dark city (top topic: 9)
+the negotiator (top topic: 19)
+gattaca (top topic: 10)
+cruel intentions (top topic: 9)
+a nightmare on elm street 3: dream warriors (top topic: 9)
+8mm (top topic: 9)
+fight club (top topic: 9)
+batman (top topic: 9)
+house on haunted hill (top topic: 9)
+wild at heart (top topic: 9)
+air force one (top topic: 9)
+the usual suspects (top topic: 9)
+assassins (top topic: 9)
+heavenly creatures (top topic: 9)
+sleepy hollow (top topic: 9)
+the french connection (top topic: 9)
+panic room (top topic: 9)
+made (top topic: 9)
+miami vice (top topic: 9)
+the godfather (top topic: 9)
+knight moves (top topic: 9)
+the terminator (top topic: 9)
+blade (top topic: 9)
+chinatown (top topic: 9)
+the life of david gale (top topic: 9)
+u turn (top topic: 9)
+birthday girl (top topic: 9)
+entrapment (top topic: 9)
+true romance (top topic: 9)
+lord of illusions (top topic: 9)
+what lies beneath (top topic: 9)
+the silence of the lambs (top topic: 9)
+the avengers (top topic: 9)
+i still know what you did last summer (top topic: 9)
+jurassic park iii (top topic: 9)
+natural born killers (top topic: 9)
+blue velvet (top topic: 9)
+hannibal (top topic: 9)
+the sixth sense (top topic: 9)
+cherry falls (top topic: 9)
+the talented mr. ripley (top topic: 9)
+halloween (top topic: 9)
+all the president's men (top topic: 9)
+the bourne supremacy (top topic: 9)
+hotel rwanda (top topic: 10)
+sphere (top topic: 9)
+the relic (top topic: 9)
+blade runner (top topic: 9)
+pet sematary (top topic: 9)
+lake placid (top topic: 9)
+the day the earth stood still (top topic: 10)
+goodfellas (top topic: 9)
+the limey (top topic: 9)
+lost souls (top topic: 9)
+thunderheart (top topic: 9)
+i am legend (top topic: 9)
+final destination 2 (top topic: 9)
+the cell (top topic: 9)
+the crying game (top topic: 9)
+contact (top topic: 10)
+the body snatcher (top topic: 9)
+playback (top topic: 9)
+face/off (top topic: 9)
+the crow: salvation (top topic: 9)
+planet of the apes (top topic: 9)
+the ghost and the darkness (top topic: 10)
+out of sight (top topic: 9)
+kalifornia (top topic: 9)
+15 minutes (top topic: 9)
+mystery of the wax museum (top topic: 9)
+spare me (top topic: 9)
+snow falling on cedars (top topic: 9)
+smokin' aces (top topic: 9)
+tomorrow never dies (top topic: 9)
+conspiracy theory (top topic: 9)
+rambo: first blood part ii (top topic: 9)
+total recall (top topic: 9)
+strange days (top topic: 9)
+man on fire (top topic: 9)
+arctic blue (top topic: 9)
+badlands (top topic: 9)
+mission: impossible (top topic: 9)
+antitrust (top topic: 9)
+rear window (top topic: 9)
+alien nation (top topic: 9)
+gone in sixty seconds (top topic: 9)
+jacob's ladder (top topic: 9)
+the abyss (top topic: 9)
+house of the damned (top topic: 9)
+enemy of the state (top topic: 9)
+thx 1138 (top topic: 9)
+tron (top topic: 9)
+scream (top topic: 9)

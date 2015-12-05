@@ -1,0 +1,550 @@
+wild things ++$++ 69
+u turn ++$++ 103
+fletch ++$++ 37
+fantastic voyage ++$++ 6
+alien ++$++ 40
+basic instinct ++$++ 56
+grosse pointe blank ++$++ 18
+psycho ++$++ 3
+who's your daddy? ++$++ 35
+pitch black ++$++ 54
+sling blade ++$++ 94
+cast away ++$++ 40
+tremors ++$++ 85
+jackie brown ++$++ 207
+get shorty ++$++ 70
+trouble in paradise ++$++ 2
+the fifth element ++$++ 19
+48 hrs. ++$++ 110
+2001: a space odyssey ++$++ 0
+excalibur ++$++ 5
+it happened one night ++$++ 3
+the bourne identity ++$++ 22
+peggy sue got married ++$++ 27
+the third man ++$++ 1
+ghostbusters ++$++ 15
+cellular ++$++ 72
+frankenstein ++$++ 8
+10 things i hate about you ++$++ 42
+ticker ++$++ 33
+viridiana ++$++ 8
+wall street ++$++ 38
+blade ++$++ 3
+chinatown ++$++ 23
+only you ++$++ 11
+the birds ++$++ 5
+the family man ++$++ 28
+krull ++$++ 1
+the getaway ++$++ 11
+all about eve ++$++ 1
+batman forever ++$++ 19
+george washington ++$++ 29
+little nicky ++$++ 42
+g.i. jane ++$++ 48
+jurassic park iii ++$++ 11
+sex, lies, and videotape ++$++ 81
+the pianist ++$++ 15
+magnolia ++$++ 208
+shivers ++$++ 3
+suspect zero ++$++ 48
+point break ++$++ 47
+love & basketball ++$++ 50
+charade ++$++ 0
+collateral ++$++ 82
+reservoir dogs ++$++ 246
+hero ++$++ 43
+schindler's list ++$++ 3
+logan's run ++$++ 6
+a clockwork orange ++$++ 23
+the elephant man ++$++ 5
+what women want ++$++ 0
+american pie ++$++ 86
+legend ++$++ 15
+jurassic park ++$++ 31
+kids ++$++ 155
+metro ++$++ 54
+eternal sunshine of the spotless mind ++$++ 72
+casino ++$++ 203
+titanic ++$++ 18
+jaws: the revenge ++$++ 43
+soldier ++$++ 3
+smoke ++$++ 77
+misery ++$++ 10
+arctic blue ++$++ 52
+black rain ++$++ 26
+ghost ship ++$++ 49
+seven ++$++ 37
+the sweet hereafter ++$++ 12
+the fabulous baker boys ++$++ 61
+the butterfly effect ++$++ 69
+the seventh victim ++$++ 3
+lock, stock and two smoking barrels ++$++ 89
+the adventures of buckaroo banzai across the 8th dimension ++$++ 15
+the exorcist ++$++ 39
+nick of time ++$++ 16
+watchmen ++$++ 33
+the night of the hunter ++$++ 2
+interview with the vampire: the vampire chronicles ++$++ 26
+a nightmare on elm street 3: dream warriors ++$++ 21
+the hudsucker proxy ++$++ 11
+the mummy ++$++ 16
+l'avventura ++$++ 3
+quills ++$++ 24
+austin powers: international man of mystery ++$++ 46
+fantastic four ++$++ 6
+the godfather ++$++ 21
+knight moves ++$++ 22
+the terminator ++$++ 10
+apocalypse now ++$++ 71
+entrapment ++$++ 21
+true romance ++$++ 267
+the silence of the lambs ++$++ 25
+nuovo cinema paradiso ++$++ 12
+mumford ++$++ 35
+platinum blonde ++$++ 0
+halloween ++$++ 4
+all the president's men ++$++ 44
+sphere ++$++ 51
+the man who wasn't there ++$++ 33
+taking sides ++$++ 36
+legally blonde ++$++ 44
+lake placid ++$++ 33
+bull durham ++$++ 101
+saving private ryan ++$++ 96
+next friday ++$++ 86
+the ploughman's lunch ++$++ 9
+thunderheart ++$++ 64
+the cell ++$++ 12
+playback ++$++ 0
+face/off ++$++ 35
+mystery of the wax museum ++$++ 1
+snow falling on cedars ++$++ 13
+conspiracy theory ++$++ 10
+an american werewolf in london ++$++ 35
+total recall ++$++ 56
+halloween iii: season of the witch ++$++ 23
+strange days ++$++ 74
+man on fire ++$++ 20
+my girl 2 ++$++ 13
+badlands ++$++ 2
+the graduate ++$++ 15
+the matrix ++$++ 34
+the wedding date ++$++ 22
+the english patient ++$++ 19
+enemy of the state ++$++ 45
+indiana jones and the temple of doom ++$++ 14
+black snake moan ++$++ 110
+the haunting ++$++ 11
+unbreakable ++$++ 9
+klute ++$++ 14
+day of the dead ++$++ 39
+wag the dog ++$++ 37
+bachelor party ++$++ 59
+kafka ++$++ 0
+the thing ++$++ 39
+star trek: first contact ++$++ 8
+signs ++$++ 3
+an american werewolf in paris ++$++ 102
+hudson hawk ++$++ 68
+men in black ++$++ 30
+sugar & spice ++$++ 47
+willow ++$++ 1
+good will hunting ++$++ 91
+the grapes of wrath ++$++ 9
+hellboy ++$++ 4
+drop dead gorgeous ++$++ 45
+airplane ii: the sequel ++$++ 6
+kundun ++$++ 0
+crash ++$++ 15
+get carter ++$++ 34
+insomnia ++$++ 16
+predator ++$++ 7
+edtv ++$++ 35
+who framed roger rabbit ++$++ 15
+game 6 ++$++ 12
+event horizon ++$++ 44
+ghostbusters ii ++$++ 8
+a hard day's night ++$++ 3
+rocky ++$++ 26
+croupier ++$++ 38
+freddy vs. jason ++$++ 12
+feast ++$++ 36
+anastasia ++$++ 1
+star trek vi: the undiscovered country ++$++ 4
+jaws ++$++ 10
+terminator 2: judgment day ++$++ 36
+dead poets society ++$++ 36
+being john malkovich ++$++ 72
+frequency ++$++ 37
+being there ++$++ 17
+grand hotel ++$++ 1
+witness ++$++ 20
+hannah and her sisters ++$++ 21
+vertigo ++$++ 7
+blade ii ++$++ 29
+die hard ++$++ 40
+a bucket of blood ++$++ 4
+fargo ++$++ 36
+rush hour ++$++ 71
+hellraiser: hellseeker ++$++ 24
+sideways ++$++ 100
+dune ++$++ 0
+unforgiven ++$++ 105
+amadeus ++$++ 24
+invaders from mars ++$++ 2
+body of evidence ++$++ 22
+thirteen days ++$++ 19
+platoon ++$++ 162
+maniac ++$++ 3
+suburbia ++$++ 189
+toy story ++$++ 0
+even cowgirls get the blues ++$++ 31
+the shining ++$++ 18
+true lies ++$++ 36
+rush hour 2 ++$++ 61
+someone to watch over me ++$++ 32
+pet sematary ii ++$++ 9
+hannibal ++$++ 7
+jennifer eight ++$++ 56
+l.a. confidential ++$++ 54
+the boondock saints ++$++ 192
+romeo and juliet ++$++ 12
+affliction ++$++ 109
+mission: impossible ++$++ 26
+beavis and butt-head do america ++$++ 66
+chill factor ++$++ 159
+sweet smell of success ++$++ 0
+the lost world: jurassic park ++$++ 15
+the man in the iron mask ++$++ 24
+superman ii ++$++ 3
+the game ++$++ 33
+donnie darko ++$++ 57
+wonder boys ++$++ 47
+swingers ++$++ 124
+dark city ++$++ 2
+the negotiator ++$++ 17
+state and main ++$++ 39
+white squall ++$++ 37
+kalifornia ++$++ 43
+erin brockovich ++$++ 133
+shock treatment ++$++ 4
+one flew over the cuckoo's nest ++$++ 47
+the french connection ++$++ 33
+silverado ++$++ 3
+panic room ++$++ 55
+starship troopers ++$++ 6
+shampoo ++$++ 71
+cruel intentions ++$++ 67
+never been kissed ++$++ 26
+shakespeare in love ++$++ 14
+scary movie 2 ++$++ 42
+rambling rose ++$++ 70
+mission: impossible ii ++$++ 21
+glengarry glen ross ++$++ 230
+true believer ++$++ 37
+blue velvet ++$++ 66
+storytelling ++$++ 26
+cherry falls ++$++ 37
+kramer vs. kramer ++$++ 34
+the talented mr. ripley ++$++ 21
+back to the future ++$++ 22
+the curse of the cat people ++$++ 0
+gods and monsters ++$++ 43
+hellraiser ++$++ 31
+superman ++$++ 5
+lost souls ++$++ 24
+braveheart ++$++ 6
+salt of the earth ++$++ 4
+young frankenstein ++$++ 7
+contact ++$++ 24
+the anniversary party ++$++ 128
+moonstruck ++$++ 20
+the curse ++$++ 74
+three kings ++$++ 53
+demolition man ++$++ 26
+house on haunted hill ++$++ 53
+the time machine ++$++ 7
+rambo: first blood part ii ++$++ 17
+star trek iv: the voyage home ++$++ 23
+do the right thing ++$++ 94
+8mm ++$++ 72
+a walk to remember ++$++ 11
+king kong ++$++ 18
+antitrust ++$++ 9
+the avengers ++$++ 2
+the apartment ++$++ 6
+the abyss ++$++ 26
+house of the damned ++$++ 9
+meet joe black ++$++ 32
+thx 1138 ++$++ 0
+scream ++$++ 94
+hider in the house ++$++ 13
+tron ++$++ 4
+the cider house rules ++$++ 8
+nothing but a man ++$++ 34
+agnes of god ++$++ 49
+midnight cowboy ++$++ 38
+an officer and a gentleman ++$++ 69
+asylum ++$++ 50
+nurse betty ++$++ 135
+casablanca ++$++ 1
+midnight express ++$++ 42
+the horse whisperer ++$++ 14
+the ghost and the darkness ++$++ 4
+the patriot ++$++ 6
+vampyr ++$++ 0
+the atomic submarine ++$++ 0
+american outlaws ++$++ 30
+godzilla ++$++ 13
+the jazz singer ++$++ 0
+hostage ++$++ 52
+the piano ++$++ 0
+fear and loathing in las vegas ++$++ 123
+bean ++$++ 11
+i walked with a zombie ++$++ 1
+to sleep with anger ++$++ 21
+high fidelity ++$++ 102
+his girl friday ++$++ 2
+bringing out the dead ++$++ 38
+man on the moon ++$++ 18
+the insider ++$++ 54
+no country for old men ++$++ 11
+leviathan ++$++ 37
+highlander ++$++ 19
+my best friend's wedding ++$++ 21
+the jacket ++$++ 18
+gladiator ++$++ 20
+brazil ++$++ 32
+it's a wonderful life ++$++ 0
+say anything... ++$++ 16
+tomorrow never dies ++$++ 10
+barry lyndon ++$++ 5
+silver bullet ++$++ 16
+independence day ++$++ 24
+the lost boys ++$++ 9
+bad lieutenant ++$++ 67
+friday the 13th ++$++ 18
+star trek iii: the search for spock ++$++ 11
+five easy pieces ++$++ 22
+galaxy quest ++$++ 29
+the beach ++$++ 8
+nashville ++$++ 8
+stepmom ++$++ 45
+the adventures of ford fairlane ++$++ 103
+virtuosity ++$++ 27
+annie hall ++$++ 46
+mr. smith goes to washington ++$++ 2
+memento ++$++ 48
+jfk ++$++ 100
+malcolm x ++$++ 45
+isle of the dead ++$++ 3
+american psycho ++$++ 55
+book of shadows: blair witch 2 ++$++ 88
+the big lebowski ++$++ 286
+star trek: insurrection ++$++ 5
+catwoman ++$++ 23
+hackers ++$++ 40
+antz ++$++ 3
+house of 1000 corpses ++$++ 167
+runaway bride ++$++ 9
+the princess bride ++$++ 5
+halloween 4: the return of michael myers ++$++ 24
+twelve monkeys ++$++ 18
+mystery men ++$++ 9
+intolerable cruelty ++$++ 22
+airplane! ++$++ 5
+the black dahlia ++$++ 0
+copycat ++$++ 79
+the crow ++$++ 45
+mr. deeds goes to town ++$++ 0
+the fisher king ++$++ 47
+jaws 3-d ++$++ 27
+bloodmoon ++$++ 64
+basic ++$++ 70
+backdraft ++$++ 79
+the rock ++$++ 15
+the bourne supremacy ++$++ 12
+meet john doe ++$++ 1
+fight club ++$++ 75
+xxx ++$++ 41
+the usual suspects ++$++ 50
+dave ++$++ 12
+heavenly creatures ++$++ 9
+hardcore ++$++ 73
+hotel rwanda ++$++ 18
+cool hand luke ++$++ 24
+napoleon ++$++ 16
+american madness ++$++ 1
+x-men ++$++ 3
+the wizard of oz ++$++ 0
+hellraiser iii: hell on earth ++$++ 30
+top gun ++$++ 38
+the life of david gale ++$++ 79
+shallow grave ++$++ 8
+supergirl ++$++ 3
+i still know what you did last summer ++$++ 11
+star trek: the motion picture ++$++ 3
+natural born killers ++$++ 62
+ed wood ++$++ 49
+the sixth sense ++$++ 2
+blade runner ++$++ 15
+the believer ++$++ 69
+jason x ++$++ 85
+lost in translation ++$++ 3
+goodfellas ++$++ 76
+buffy the vampire slayer ++$++ 34
+star trek v: the final frontier ++$++ 7
+raging bull ++$++ 35
+the crying game ++$++ 79
+the body snatcher ++$++ 1
+the rocky horror picture show ++$++ 1
+reindeer games ++$++ 80
+the majestic ++$++ 19
+waxwork ++$++ 3
+clerks. ++$++ 242
+manhunter ++$++ 35
+heathers ++$++ 90
+duck soup ++$++ 0
+orgy of the dead ++$++ 1
+hope and glory ++$++ 12
+as good as it gets ++$++ 31
+jacob's ladder ++$++ 76
+blast from the past ++$++ 54
+crazy love ++$++ 9
+tombstone ++$++ 51
+stalag 17 ++$++ 4
+some like it hot ++$++ 2
+the relic ++$++ 22
+solaris ++$++ 27
+jason goes to hell: the final friday ++$++ 26
+the bridges of madison county ++$++ 24
+barton fink ++$++ 62
+pleasantville ++$++ 24
+superman iii ++$++ 8
+the messenger ++$++ 70
+lost horizon ++$++ 1
+blow ++$++ 100
+jaws 2 ++$++ 65
+indiana jones and the last crusade ++$++ 16
+my girl ++$++ 6
+happy birthday, wanda june ++$++ 87
+beloved ++$++ 9
+on the waterfront ++$++ 21
+crime spree ++$++ 48
+bottle rocket ++$++ 67
+the searchers ++$++ 2
+the sting ++$++ 34
+traffic ++$++ 45
+wild wild west ++$++ 15
+the grifters ++$++ 20
+jerry maguire ++$++ 38
+lost highway ++$++ 31
+gandhi ++$++ 8
+friday the 13th part viii: jason takes manhattan ++$++ 7
+from dusk till dawn ++$++ 109
+o brother, where art thou? ++$++ 35
+election ++$++ 16
+the woodsman ++$++ 57
+dark star ++$++ 10
+the devil and daniel webster ++$++ 6
+bones ++$++ 67
+starman ++$++ 31
+twin peaks: fire walk with me ++$++ 25
+superman iv: the quest for peace ++$++ 1
+dr. strangelove or: how i learned to stop worrying and love the bomb ++$++ 25
+lone star ++$++ 38
+deep rising ++$++ 41
+the nightmare before christmas ++$++ 0
+final destination ++$++ 15
+life as a house ++$++ 27
+metropolis ++$++ 21
+the verdict ++$++ 29
+minority report ++$++ 22
+spider-man ++$++ 14
+star trek: generations ++$++ 0
+confidence ++$++ 114
+broadcast news ++$++ 27
+dog day afternoon ++$++ 96
+a nightmare on elm street 4: the dream master ++$++ 8
+monkeybone ++$++ 12
+slither ++$++ 39
+monty python and the holy grail ++$++ 9
+miami vice ++$++ 21
+trainspotting ++$++ 75
+very bad things ++$++ 113
+nixon ++$++ 212
+aliens ++$++ 26
+bound ++$++ 94
+the salton sea ++$++ 80
+the fantastic four ++$++ 6
+sleepless in seattle ++$++ 16
+batman and robin ++$++ 14
+ninotchka ++$++ 4
+the x files ++$++ 13
+notting hill ++$++ 36
+arcade ++$++ 15
+smokey and the bandit ++$++ 18
+escape from the planet of the apes ++$++ 1
+philadelphia ++$++ 59
+the thin man ++$++ 3
+halloween h20: 20 years later ++$++ 20
+citizen kane ++$++ 4
+the leopard man ++$++ 0
+thelma & louise ++$++ 132
+there's something about mary ++$++ 114
+gattaca ++$++ 12
+batman ++$++ 20
+air force one ++$++ 17
+innerspace ++$++ 21
+assassins ++$++ 62
+sleepy hollow ++$++ 18
+the hustler ++$++ 6
+crouching tiger, hidden dragon ++$++ 2
+made ++$++ 236
+batman returns ++$++ 4
+i am legend ++$++ 1
+big fish ++$++ 4
+the truman show ++$++ 8
+lord of illusions ++$++ 58
+what lies beneath ++$++ 21
+human nature ++$++ 53
+alien nation ++$++ 52
+pearl harbor ++$++ 27
+the ice storm ++$++ 38
+out of sight ++$++ 106
+bamboozled ++$++ 58
+gone in sixty seconds ++$++ 49
+ronin ++$++ 62
+pet sematary ++$++ 26
+mash ++$++ 32
+the day the earth stood still ++$++ 0
+the producers ++$++ 7
+the limey ++$++ 56
+punch-drunk love ++$++ 47
+a nightmare on elm street ++$++ 16
+final destination 2 ++$++ 28
+ghost world ++$++ 107
+cliffhanger ++$++ 42
+scream 3 ++$++ 80
+wild at heart ++$++ 93
+the crow: salvation ++$++ 21
+planet of the apes ++$++ 5
+sister act ++$++ 27
+juno ++$++ 61
+fast times at ridgemont high ++$++ 43
+scream 2 ++$++ 44
+15 minutes ++$++ 52
+the deer hunter ++$++ 85
+frances ++$++ 52
+smokin' aces ++$++ 94
+serial mom ++$++ 40
+taxi driver ++$++ 44
+leaving las vegas ++$++ 10
+birthday girl ++$++ 20
+spare me ++$++ 29
+the hebrew hammer ++$++ 21
+rear window ++$++ 3
+rebel without a cause ++$++ 0
+mimic ++$++ 27
+the world is not enough ++$++ 8
+happy campers ++$++ 29
